@@ -1,0 +1,7 @@
+PySide6
+requests
+pypiwin32
+setproctitle
+psutil
+yt_dlp
+pyinstaller
